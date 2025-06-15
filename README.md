@@ -28,3 +28,6 @@ Fill in the Excel file `transport_route_clean_template.xlsx`:
 - Company trips cover at least 50% of demand on high-demand routes (>20 trips/month)
 - Company trips cannot exceed fleet capacity
 - Cost minimized across all routes
+
+  Delete wrong files
+
